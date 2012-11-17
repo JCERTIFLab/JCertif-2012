@@ -112,7 +112,7 @@ Vidéo : http://www.youtube.com/watch?v=vbTIQWiqygU
 </td>
 <td>
 <h2>Patrick Bashizi (VMK)</h2>
-Advocate pour l'Afrique Centrale de Google Map Maker, Noé DIAKUBAMA est un utilisateur qui a participé avec d'autres volontaires, à l'enrichissement de la carte de l'Afrique sur Google Maps. Il veut encourager les africains à contribuer à l'enrichissement de ces données en vue d'une meilleure exploitation de la géolocalisation. Les nombreux passionnés des nouvelles technologies seront guidés sur le bonne pratique de Google Map Maker.
+Développeur Java et Android avec plusieurs années d'expérience.Il a parcouru tous les recoins du Java, depuis la JEE jusqu'au Java Card,en passant par la J2ME pour enfin se focaliser actuellement sur Android . Passionné des systèmes enfouis et mobiles, il travaille actuellement chez VMK.
 <br/>
 <br/>
 Java for Android : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Patrick%20Bashizi/java_for_android.pdf">Télécharger</a>
