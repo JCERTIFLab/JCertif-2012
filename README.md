@@ -29,6 +29,10 @@ Sécurité en Java : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/mas
 <h2>Rossi Oddet (SQLI Nantes)</h2>
 Consultant IT/ Formateur Java EE chez SQLI Nantes (FRANCE), Rossi est également responsable de JCertif Lab : le laboratoire de création des projets open source de JCertif. Venez découvrir sa passion pour le développement d'application et sa vision "Entreprise" de l'usine logicielle à travers ses sessions durant JCertif University et JCertif Conference.
 <br/>
+Twitter : https://twitter.com/rossioddet
+Blogger : http://blog.roddet.com
+Mail : rossi.oddet@jcertif.fr
+<br/>
 <br/>
 Maven par la pratique : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Rossi%20Oddet/JCERTIF_2012_maven_par_la_pratique.pdf">Télécharger</a>
 <br/>
@@ -47,6 +51,8 @@ Intégration continue avec Jenkins : <a href="https://github.com/JCERTIFLab/JCer
 <td>
 <h2>Eric Toguem (AByster)</h2>
 Eric TOGUEM, is known and recognized as a passionate Java technologies. Eric is certified Oracle Java/J2EE Technologies. He has accumulated several years of experience working as a Software Engineer at Gate Company, Project Manager at Advance-IT and Senior Software Engineer at AFFIXE, and also lecture software engineering courses (Object Oriented programming 2, Algorithms and data structures 2, artificial intelligence) for three years at Adventist Cosendai Informatics and Management Faculty. Currently, he is VP Information Technology at Abyster.
+<br/>
+Mail : erictoguem@gmail.com
 <br/>
 <br/>
 Développement d'applications USSD en Java : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Eric%20TOGUEM/JCERTIF_2012_Eric_TOGUEM_D%E9veloppement_Applications_USSD_en_Java.pdf">Télécharger</a>
