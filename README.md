@@ -9,7 +9,7 @@ Ressources (présentations, cours, travaux pratiques, ....) dévoilées lors de 
 <table border="0">
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/douglas_mbiandou.jpg" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/douglas_mbiandou.jpg" width="100%" />
 </td>
 <td>
 <h2>Douglas Mbiandou (Objis)</h2>
@@ -23,7 +23,7 @@ Sécurité en Java : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/mas
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/rossi_oddet.jpg" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/rossi_oddet.jpg" width="100%" />
 </td>
 <td>
 <h2>Rossi Oddet (SQLI Nantes)</h2>
@@ -42,7 +42,7 @@ Intégration continue avec Jenkins : <a href="https://github.com/JCERTIFLab/JCer
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/eric_toguem.png" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/eric_toguem.png" width="100%" />
 </td>
 <td>
 <h2>Eric Toguem (AByster)</h2>
@@ -56,7 +56,7 @@ Plateforme de développment d'applications mobiles : <a href="https://github.com
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/amen_hovi.jpg" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/amen_hovi.jpg" width="100%" />
 </td>
 <td>
 <h2>Amen Hovi (Google)</h2>
@@ -68,7 +68,7 @@ Google Map API : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/chris_bailey.jpg" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/chris_bailey.jpg" width="100%" />
 </td>
 <td>
 <h2>Chris Bailey (IBM)</h2>
@@ -80,7 +80,7 @@ Java Code to Java Heap : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/max_bonbhel.png" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/max_bonbhel.png" width="100%" />
 </td>
 <td>
 <h2>Max Bonbhel (Fujitsu)</h2>
@@ -94,7 +94,7 @@ Les WebServices : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/noe_diakubama.jpg" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/noe_diakubama.jpg" width="100%" />
 </td>
 <td>
 <h2>Noé DIAKUBAMA (PROFFAC)</h2>
@@ -108,7 +108,7 @@ Vidéo : http://www.youtube.com/watch?v=vbTIQWiqygU
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/bashizi.jpg" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/bashizi.jpg" width="100%" />
 </td>
 <td>
 <h2>Patrick Bashizi (VMK)</h2>
