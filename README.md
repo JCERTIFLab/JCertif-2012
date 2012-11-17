@@ -29,9 +29,9 @@ Sécurité en Java : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/mas
 <h2>Rossi Oddet (SQLI Nantes)</h2>
 Consultant IT/ Formateur Java EE chez SQLI Nantes (FRANCE), Rossi est également responsable de JCertif Lab : le laboratoire de création des projets open source de JCertif. Venez découvrir sa passion pour le développement d'application et sa vision "Entreprise" de l'usine logicielle à travers ses sessions durant JCertif University et JCertif Conference.
 <br/>
-Twitter : https://twitter.com/rossioddet
-Blogger : http://blog.roddet.com
-Mail : rossi.oddet@jcertif.fr
+Twitter : https://twitter.com/rossioddet<br/>
+Blogger : http://blog.roddet.com<br/>
+Mail : rossi.oddet@jcertif.fr<br/>
 <br/>
 <br/>
 Maven par la pratique : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Rossi%20Oddet/JCERTIF_2012_maven_par_la_pratique.pdf">Télécharger</a>
