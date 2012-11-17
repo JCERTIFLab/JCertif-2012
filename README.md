@@ -108,7 +108,7 @@ Vidéo : http://www.youtube.com/watch?v=vbTIQWiqygU
 </tr>
 <tr>
 <td width="20%">
-<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/noe_diakubama.jpg" width="100%" />
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/bashizi.jpg" width="100%" />
 </td>
 <td>
 <h2>Patrick Bashizi (VMK)</h2>
@@ -123,6 +123,3 @@ Android Jelly Bean : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/mas
 </td>
 </tr>
 </table>
-
-
-
