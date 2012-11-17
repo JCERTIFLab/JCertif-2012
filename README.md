@@ -31,8 +31,6 @@ Consultant IT/ Formateur Java EE chez SQLI Nantes (FRANCE), Rossi est également
 <br/>
 Twitter : https://twitter.com/rossioddet<br/>
 Blogger : http://blog.roddet.com<br/>
-Mail : rossi.oddet@jcertif.fr<br/>
-<br/>
 <br/>
 Maven par la pratique : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Rossi%20Oddet/JCERTIF_2012_maven_par_la_pratique.pdf">Télécharger</a>
 <br/>
