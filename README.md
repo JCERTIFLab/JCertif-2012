@@ -1,3 +1,5 @@
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/bandeau_rouge_2012.png" />
+
 JCertif-2012
 ============
 
