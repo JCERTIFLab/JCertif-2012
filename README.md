@@ -9,6 +9,29 @@ Ressources (présentations, cours, travaux pratiques, ....) dévoilées lors de 
 <table border="0">
 <tr>
 <td width="20%">
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/mathias_seguy.jpg" width="100%" />
+</td>
+<td>
+<h2>Mathias Seguy (Android2ee)</h2>
+Mathias est le fondateur de la société Android2ee spécialisée dans la formation Android en France (prochaines sessions Toulouse 24-27 Sept., Paris 1-3 Oct. et 5-9 Nov.).
+Il est expert logiciel en technologie Android et vous présente durant cette JCertif un cours complet sur Android (5 jours de formations à ne pas manquer).
+Il est aussi :
+- Speaker Android sur de grandes conférences Java : Devoxx France, Eclipse Day Toulouse, JCertif Africa, Toulouse JUG, CocoAhead ;<br/>
+- Rédacteur Android sur Developpez.com ;<br/>
+- Programmateur Android : MyLight, MyTorch, MySensors, JCertifMobile disponibles sur GooglePlay ;<br/>
+- Docteur en Mathématiques Fondamentales et Ingénieur de l’ENSEEIHT ;<br/>
+- Expert technique de l’agence nationale de la recherche française ;<br/>
+Il est l’architecte et le développeur principal de l’application JCertif Mobile.<br/>
+Il a écrit 3 eBooks sur la programmation Android disponibles sur http://www.android2ee.com.<br/>
+Et surtout il dispense les meilleures formations Android en France, alors pour tout renseignement concernant les formations, une seule adresse : http://www.android2ee.com/fr/formations-android/inter-entreprises<br/>
+<br/>
+Android un nouveau futur s'ouvre à nous : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Mathias%20Seguy/JCERTIF_2012_Mathias_Seguy_Android_Un_Nouveau_Futur_.pdf">Télécharger</a>
+<br/>
+Achitecture JCertif Android Application : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Mathias%20Seguy/JCertif_2012_JCertif_Android_App_Architecture.pdf">Télécharger</a>
+</td>
+</tr>
+<tr>
+<td width="20%">
 <img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/douglas_mbiandou.jpg" width="100%" />
 </td>
 <td>
