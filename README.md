@@ -46,6 +46,24 @@ Sécurité en Java : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/mas
 </tr>
 <tr>
 <td width="20%">
+<img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/audran_youlou.jpg" width="100%" />
+</td>
+<td>
+<h2>Audran Youlou Zhazha (CGI)</h2>
+Consultant Senior chez CGI France et Certifié IBM WAS 7.0, j'ai participé à différents projets de développements d'applications Java/JEE pour différents grands comptes dont IBM France, Conforama et SGCIB. Passionné des architectures distribuées, je développe actuellement mes compétences sur l'intégration des processus métiers (EAI) et sur les architectures orientées services (SOA).
+<br/>
+<br/>
+Java Web Session 2 - Introduction à JPA : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Audran%20Youlou/JCERTIF_2012_JAVA_WEB_SESSION_2_Intro_JPA.pdf">Télécharger</a>
+<br/>
+Java Web Session 3 - Spring Framework : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Audran%20Youlou/JCERTIF_2012_JAVA_WEB_SESSION_3_Spring.pdf">Télécharger</a>
+<br/>
+Java Web Session 4 - Développement Web : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Audran%20Youlou/JCERTIF_2012_JAVA_WEB_SESSION_4_Dev_Web.pdf">Télécharger</a>
+<br/>
+Java Web Session 5 - MVC : <a href="https://github.com/JCERTIFLab/JCertif-2012/raw/master/sessions/Audran%20Youlou/JCERTIF_2012_JAVA_WEB_SESSION_5_MVC.pdf">Télécharger</a>
+</td>
+</tr>
+<tr>
+<td width="20%">
 <img src="https://github.com/JCERTIFLab/jcertif-static-resources/raw/master/img/speakers/2012/rossi_oddet.jpg" width="100%" />
 </td>
 <td>
